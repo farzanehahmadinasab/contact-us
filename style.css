@@ -110,3 +110,12 @@ form {
 #text-custom {
     min-height: 100px;
 }
+
+.submit-button {
+    display: block;
+    width: 100%;
+    padding:  0.75rem;
+    background: linear-gradient(to right, #23a400, #00ffa6);
+    border-radius: 2px;
+    cursor: pointer;
+}
