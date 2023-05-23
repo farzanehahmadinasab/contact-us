@@ -71,3 +71,9 @@ button{
     max-width: 540px;
     min-width: 768px;
 }
+
+.header{
+    padding: 0 0.625rem;
+    margin-bottom: 1.875rem;
+    color: black;
+}
