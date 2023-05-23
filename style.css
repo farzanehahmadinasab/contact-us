@@ -1,0 +1,14 @@
+*,
+*:before,
+*:after {
+    box-sizing: border-box;
+    direction: rtl;
+}
+
+body{
+    font-size: 1rem;
+    font-weight: 400 bold;
+    line-height: 2;
+    color: black;
+    margin: 0;
+}
