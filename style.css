@@ -56,24 +56,35 @@ input,
 button,
 select,
 textarea {
-    margin: 0;
-    font-size: inherit;
-    line-height: inherit;
+  margin: 0;
+  font-size: inherit;
+  line-height: inherit;
 }
 
-button{
-    border: none;
+button {
+  border: none;
 }
 
 .container {
-    width: 100%;
-    margin: 3.125rem auto 0 auto;
-    max-width: 540px;
-    min-width: 768px;
+  width: 100%;
+  margin: 3.125rem auto 0 auto;
+  max-width: 540px;
+  min-width: 768px;
 }
 
-.header{
-    padding: 0 0.625rem;
-    margin-bottom: 1.875rem;
-    color: black;
+.header {
+  padding: 0 0.625rem;
+  margin-bottom: 1.875rem;
+  color: black;
+}
+
+.text-center {
+  text-align: center;
+}
+
+form {
+    border: 2px solid rgb(255, 110, 255);
+    padding: 2.5rem 0.625rem;
+    border-radius: 2%;
+    background-color: #fff;
 }
